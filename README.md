@@ -52,8 +52,3 @@ Durante a prática, aprendi:
   
 
 
-
-
-
-## 🧱 Estrutura do Projeto
-
