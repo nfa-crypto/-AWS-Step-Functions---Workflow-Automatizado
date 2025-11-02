@@ -35,9 +35,25 @@ Permite acompanhar o desempenho e detectar falhas no processo.
 
 ### AWS IAM
 Gerencia permissões e segurança, garantindo que cada serviço ou usuário tenha acesso apenas ao que for necessário para o funcionamento do projeto.
-
-
 ---
+## Experiência e Aprendizados
+
+Durante a prática, aprendi:
+- Como definir **máquinas de estado** no Step Functions.
+- A importância de **tratamento de erros e retries**.
+- Como integrar **Lambda functions** em diferentes estados.
+- A vantagem de visualizar fluxos complexos de execução.
+--
+
+## 📚 Referências
+- [Documentação AWS Step Functions](https://docs.aws.amazon.com/step-functions/)
+- [AWS Lambda Docs](https://docs.aws.amazon.com/lambda/)
+- [Curso DIO - Step Functions](https://www.dio.me/)
+  
+
+
+
+
 
 ## 🧱 Estrutura do Projeto
 
